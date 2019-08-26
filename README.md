@@ -5,10 +5,12 @@
 
 ## 문제목록
 ###
-문제번호 | 문제이름 | 유형 | 링크 | 상태
+문제번호 | 문제이름 | 유형 | 링크 | 상태 | 날짜
 --- | --- | --- | --- | --- | ---
+1541 | 잃어버린 괄호 | Greedy | https://www.acmicpc.net/problem/1541 | 완료 | 2019/08/26
 1931 | 회의실배정 | Greedy | https://www.acmicpc.net/problem/1931 | 완료
 11047 | 동전 0 | Greedy | https://www.acmicpc.net/problem/11047 | 완료
+11399 | ATM | Greedy | https://www.acmicpc.net/problem/11399 | 완료 | 2019/08/26
 14963 | COCI 2017~2018 Contest #1 - Cezar |  | https://www.acmicpc.net/problem/14963 | 완료
 14964 | COCI 2017~2017 Contest #1 - Tetris | | https://www.acmicpc.net/problem/14964 | 완료
 14965 | COCI 2017~2018 Contest #1 - Lozinke | | https://www.acmicpc.net/problem/14965 | 완료
