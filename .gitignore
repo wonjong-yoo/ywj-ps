@@ -1,3 +1,7 @@
 .vscode
+test/
 
 *.o
+
+# Debug 파일 제외
+*.dSYM
