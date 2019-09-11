@@ -10,19 +10,26 @@
 1107 | 리모컨 | Brute Force | https://www.acmicpc.net/problem/1476 | 완료 | 2019/09/03
 1476 | 날짜 계산 | Brute Force | https://www.acmicpc.net/problem/1476 | 완료 | 2019/09/03
 1541 | 잃어버린 괄호 | Greedy | https://www.acmicpc.net/problem/1541 | 완료 | 2019/08/26
+1525 | 퍼즐 | BFS | https://www.acmicpc.net/problem/1654 | 완료 | 2019/09/09
 1654 | 랜선자르기 | Binary Search | https://www.acmicpc.net/problem/2805 | 완료 | 2019/08/30
+1697 | 숨바꼭질 | BFS | https://www.acmicpc.net/problem/1697 | 완료 | 2019/09/04
 1744 | 수 묶기 | Greedy | https://www.acmicpc.net/problem/1744 | 완료 | 2019/08/27
 1780 | 종이의 개수 | D & C | https://www.acmicpc.net/problem/1780 | 완료 | 2019/08/27
+1795 | 암호만들기 | DFS | https://www.acmicpc.net/problem/1795 | 완료 | 2019/09/10
 1931 | 회의실배정 | Greedy | https://www.acmicpc.net/problem/1931 | 완료 | 2019/08/27
 1939 | 중량 제한 | Binary Search | https://www.acmicpc.net/problem/1939 | 완료 | 2019/08/31
+1963 | 소수 경로 | BFS | https://www.acmicpc.net/problem/1963 | 완료 | 2019/09/04
 1992 | 쿼드트리 | D & C | https://www.acmicpc.net/problem/1992 | 완료 | 2019/08/28
 2022 | 사다리 | Binary Search | https://www.acmicpc.net/problem/1992 | 완료 | 2019/08/31
 2110 | 공유기 설치 | Binary Search | https://www.acmicpc.net/problem/2110 | 완료 | 2019/08/30
+2251 | 물통 | BFS | https://www.acmicpc.net/problem/2251 | 완료 | 2019/09/06
 2263 | 트리의 순회 | D & C | https://www.acmicpc.net/problem/2263 | 완료 | 2019/08/27
+2580 | 스도쿠 | 백트래킹 | https://www.acmicpc.net/problem/2580 | 완료 | 2019/09/10
 2805 | 나무자르기 | Binary Search | https://www.acmicpc.net/problem/2805 | 완료 | 2019/08/30
 2875 | 대회 or 인턴 | Greedy | https://www.acmicpc.net/problem/2875 | 완료 | 2019/08/27
 6603 | 로또 | DFS, 순열 | https://www.acmicpc.net/problem/6603 | 완료 | 2019/09/04
-9095 | 1,2,3 더하기 | Brute Force(순열) |https://www.acmicpc.net/problem/9095 | 완료 | 2019/09/04
+9095 | 1,2,3 더하기 | Brute Force(순열) | https://www.acmicpc.net/problem/9095 | 완료 | 2019/09/04
+9663 | N-QUEEN | 백트래킹 | https://www.acmicpc.net/problem/9663 | 완료 | 2019/09/10
 10610 | 30 | Greedy | https://www.acmicpc.net/problem/10610 | 완료 | 2019/08/27
 10819 | 차이를 최대로 | 순열 | https://www.acmicpc.net/problem/10819 | 완료 | 2019/09/04
 10917 | 외판원 순회 2 | Brute Force(순열) | https://www.acmicpc.net/problem/10917 | 완료 | 2019/09/04
@@ -34,6 +41,12 @@
 14964 | COCI 2017~2017 Contest #1 - Tetris | | https://www.acmicpc.net/problem/14964 | 완료
 14965 | COCI 2017~2018 Contest #1 - Lozinke | | https://www.acmicpc.net/problem/14965 | 완료
 14967 | COCI 2017~2018 Contest #1 - Deda | | https://www.acmicpc.net/problem/14967 | X
+
+## Programmers 문제목록
+###
+문제이름 | 유형 | 링크 | 상태 | 날짜
+--- | --- | --- | --- | ---
+(2018년) KAKAO BLIND RECRUITMENT - 블록 게임 | 브루트 포스 | | 완료 | 2019/09/04
 
 ## 비고
 1561 - 놀이 공원
@@ -47,3 +60,6 @@
 Binary Search
 - 이전 기준의 답이 조금 커진(혹은 작아진) 현재 기준의 답보다 무조건 크거나 작아질 때 적용 가능
 
+1525 - 퍼즐
+- 상태저장을 어떻게 최소한으로 저장할것인가?
+  - 여기서는 2차원 배열 형태를 1차원으로 바꿈(추가적인 Index 변환 작업 필요)
