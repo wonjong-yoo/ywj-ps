@@ -7,7 +7,8 @@
 ###
 문제번호 | 문제이름 | 유형 | 링크 | 상태 | 날짜
 --- | --- | --- | --- | --- | ---
-1107 | 리모컨 | Brute Force | https://www.acmicpc.net/problem/1476 | 완료 | 2019/09/03
+1107 | 리모컨 | Brute Force | https://www.acmicpc.net/problem/1107 | 완료 | 2019/09/03
+1182 | 부분수열의 합 | Brute Force | https://www.acmicpc.net/problem/1182 | 완료 | 2019/09/11
 1476 | 날짜 계산 | Brute Force | https://www.acmicpc.net/problem/1476 | 완료 | 2019/09/03
 1541 | 잃어버린 괄호 | Greedy | https://www.acmicpc.net/problem/1541 | 완료 | 2019/08/26
 1525 | 퍼즐 | BFS | https://www.acmicpc.net/problem/1654 | 완료 | 2019/09/09
@@ -19,6 +20,7 @@
 1931 | 회의실배정 | Greedy | https://www.acmicpc.net/problem/1931 | 완료 | 2019/08/27
 1939 | 중량 제한 | Binary Search | https://www.acmicpc.net/problem/1939 | 완료 | 2019/08/31
 1963 | 소수 경로 | BFS | https://www.acmicpc.net/problem/1963 | 완료 | 2019/09/04
+1987 | 알파벳 | 백트래킹 | https://www.acmicpc.net/problem/1987 | 완료 | 2019/09/11
 1992 | 쿼드트리 | D & C | https://www.acmicpc.net/problem/1992 | 완료 | 2019/08/28
 2022 | 사다리 | Binary Search | https://www.acmicpc.net/problem/1992 | 완료 | 2019/08/31
 2110 | 공유기 설치 | Binary Search | https://www.acmicpc.net/problem/2110 | 완료 | 2019/08/30
