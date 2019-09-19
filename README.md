@@ -12,7 +12,7 @@
 1476 | 날짜 계산 | Brute Force | https://www.acmicpc.net/problem/1476 | 완료 | 2019/09/03
 1541 | 잃어버린 괄호 | Greedy | https://www.acmicpc.net/problem/1541 | 완료 | 2019/08/26
 1525 | 퍼즐 | BFS | https://www.acmicpc.net/problem/1654 | 완료 | 2019/09/09
-1654 | 랜선자르기 | Binary Search | https://www.acmicpc.net/problem/2805 | 완료 | 2019/08/30
+1654 | 랜선자르기 | Binary Search | https://www.acmicpc.net/problem/1654 | 완료 | 2019/08/30
 1697 | 숨바꼭질 | BFS | https://www.acmicpc.net/problem/1697 | 완료 | 2019/09/04
 1744 | 수 묶기 | Greedy | https://www.acmicpc.net/problem/1744 | 완료 | 2019/08/27
 1780 | 종이의 개수 | D & C | https://www.acmicpc.net/problem/1780 | 완료 | 2019/08/27
@@ -29,9 +29,13 @@
 2580 | 스도쿠 | 백트래킹 | https://www.acmicpc.net/problem/2580 | 완료 | 2019/09/10
 2805 | 나무자르기 | Binary Search | https://www.acmicpc.net/problem/2805 | 완료 | 2019/08/30
 2875 | 대회 or 인턴 | Greedy | https://www.acmicpc.net/problem/2875 | 완료 | 2019/08/27
+3015 | 오아시스 재결합 | Stack | https://www.acmicpc.net/problem/3014 | 완료 | 2019/09/18
+3111 | 검열 | Stack | https://www.acmicpc.net/problem/3111 | X | 
+6549 | 히스토그램에서 가장 큰 직사각형 | Stack | https://www.acmicpc.net/problem/6549 | 완료 | 2019/09/18
 6603 | 로또 | DFS, 순열 | https://www.acmicpc.net/problem/6603 | 완료 | 2019/09/04
 9095 | 1,2,3 더하기 | Brute Force(순열) | https://www.acmicpc.net/problem/9095 | 완료 | 2019/09/04
 9663 | N-QUEEN | 백트래킹 | https://www.acmicpc.net/problem/9663 | 완료 | 2019/09/10
+9935 | 문자열 폭발 | Stack | https://www.acmicpc.net/problem/9935 | 완료 | 2019/09/18
 10610 | 30 | Greedy | https://www.acmicpc.net/problem/10610 | 완료 | 2019/08/27
 10819 | 차이를 최대로 | 순열 | https://www.acmicpc.net/problem/10819 | 완료 | 2019/09/04
 10917 | 외판원 순회 2 | Brute Force(순열) | https://www.acmicpc.net/problem/10917 | 완료 | 2019/09/04
@@ -65,3 +69,9 @@ Binary Search
 1525 - 퍼즐
 - 상태저장을 어떻게 최소한으로 저장할것인가?
   - 여기서는 2차원 배열 형태를 1차원으로 바꿈(추가적인 Index 변환 작업 필요)
+
+
+#Stack
+ top만 의미있고 들어갔다 나오는 구조를 가져야함.
+3015 - 오아시스 재결합
+볼 수도 있는 사람을 스택에 넣고 절대 볼 수 없는 사람을 스택에서 제거한다.
