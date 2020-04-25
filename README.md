@@ -13,25 +13,20 @@
 1107 | 리모컨 | Brute Force | [BOJ Link](https://www.acmicpc.net/problem/1107) | 완료 | 2019/09/03
 1162 | 도로포장 | ? | [BOJ Link](https://www.acmicpc.net/problem/1162) | X |
 1182 | 부분수열의 합 | Brute Force | [BOJ Link](https://www.acmicpc.net/problem/1182) | 완료 | 2019/09/11
-1261 | 알고스팟 | BFS | [BOJ Link](https://www.acmicpc.net/problem/1261) | 완료 | 2019/10/10
 1300 | K번째 수 | Binary Search | [BOJ Link](https://www.acmicpc.net/problem/1300) | 완료 | 2019/09/27
 1476 | 날짜 계산 | Brute Force | [BOJ Link](https://www.acmicpc.net/problem/1476) | 완료 | 2019/09/03
 1509 | 팰린드롬 분할 | DP | [BOJ Link](https://www.acmicpc.net/problem/1509) | 완료 | 2019/09/26
 1516 | 게임 개발 | 위상정렬 | [BOJ Link](https://www.acmicpc.net/problem/1516) | 완료 | 2019/10/07
 1541 | 잃어버린 괄호 | Greedy | [BOJ Link](https://www.acmicpc.net/problem/1541) | 완료 | 2019/08/26
 1525 | 퍼즐 | BFS | [BOJ Link](https://www.acmicpc.net/problem/1654) | 완료 | 2019/09/09
-1644 | 소수들의 연속 합 | 두 포인터, 소수 | [BOJ Link](https://www.acmicpc.net/problem/1644) | 완료 | 2019/10/09
 1654 | 랜선자르기 | Binary Search | [BOJ Link](https://www.acmicpc.net/problem/1654) | 완료 | 2019/08/30
 1697 | 숨바꼭질 | BFS | [BOJ Link](https://www.acmicpc.net/problem/1697) | 완료 | 2019/09/04
 1717 | 집합의 표현 | Union Find | [BOJ Link](https://www.acmicpc.net/problem/1717) | 완료 | 2019/09/19
 1722 | 순열의 순서 | permutation | [BOJ Link](https://www.acmicpc.net/problem/1722) | 완료 | 2019/09/01
 1744 | 수 묶기 | Greedy | [BOJ Link](https://www.acmicpc.net/problem/1744) | 완료 | 2019/08/27
-1761 | 정점들의 거리 | LCA | [BOJ Link](https://www.acmicpc.net/problem/1761) | 완료 | 2019/10/09
 1764 | 듣보잡 | Set | [BOJ Link](https://www.acmicpc.net/problem/1764) | 완료 | 2019/09/19
-1806 | 부분합 | 두 포인터 | [BOJ Link](https://www.acmicpc.net/problem/1806) | 완료 | 2019/10/09
 1780 | 종이의 개수 | D & C | [BOJ Link](https://www.acmicpc.net/problem/1780) | 완료 | 2019/08/27
 1795 | 암호만들기 | DFS | [BOJ Link](https://www.acmicpc.net/problem/1795) | 완료 | 2019/09/10
-1865 | 웜홀 | 벨만포드 | [BOJ Link](https://www.acmicpc.net/problem/1865) | 완료 | 2019/10/08
 1890 | 점프 | DP | [BOJ Link](https://www.acmicpc.net/problem/1890) | 완료 | 2019/09/25
 1920 | 수 찾기 | Binary Search | [BOJ Link](https://www.acmicpc.net/problem/1920) | 완료 | 2019/09/26
 1931 | 회의실배정 | Greedy | [BOJ Link](https://www.acmicpc.net/problem/1931) | 완료 | 2019/08/27
@@ -40,7 +35,6 @@
 1963 | 소수 경로 | BFS | [BOJ Link](https://www.acmicpc.net/problem/1963) | 완료 | 2019/09/04
 1987 | 알파벳 | 백트래킹 | [BOJ Link](https://www.acmicpc.net/problem/1987) | 완료 | 2019/09/11
 1992 | 쿼드트리 | D & C | [BOJ Link](https://www.acmicpc.net/problem/1992) | 완료 | 2019/08/28
-2003 | 수들의 합 2 | 두 포인터 | [BOJ Link](https://www.acmicpc.net/problem/2003) | 완료 | 2019/10/02
 2022 | 사다리 | Binary Search | [BOJ Link](https://www.acmicpc.net/problem/1992) | 완료 | 2019/08/31
 2056 | 작업 | 위상정렬 | [BOJ Link](https://www.acmicpc.net/problem/2056) | 완료 | 2019/10/07
 2110 | 공유기 설치 | Binary Search | [BOJ Link](https://www.acmicpc.net/problem/2110) | 완료 | 2019/08/30
@@ -52,7 +46,6 @@
 2293 | 동전 1 | DP | [BOJ Link](https://www.acmicpc.net/problem/2293) | X |
 2580 | 스도쿠 | 백트래킹 | [BOJ Link](https://www.acmicpc.net/problem/2580) | 완료 | 2019/09/10
 2606 | 바이러스 | Union Find | [BOJ Link](https://www.acmicpc.net/problem/2606) | 완료 | 2019/09/19
-2632 | 피자판매 | 이분탐색 | [BOJ Link](https://www.acmicpc.net/problem/2632) | 완료 | 2019/10/10
 2805 | 나무자르기 | Binary Search | [BOJ Link](https://www.acmicpc.net/problem/2805) | 완료 | 2019/08/30
 2875 | 대회 or 인턴 | Greedy | [BOJ Link](https://www.acmicpc.net/problem/2875) | 완료 | 2019/08/27
 3015 | 오아시스 재결합 | Stack | [BOJ Link](https://www.acmicpc.net/problem/3014) | 완료 | 2019/09/18
@@ -61,7 +54,6 @@
 3425 | 고스택 | 구현 | [BOJ Link](https://www.acmicpc.net/problem/3425) | 완료 | 2019/09/23
 6549 | 히스토그램에서 가장 큰 직사각형 | Stack | [BOJ Link](https://www.acmicpc.net/problem/6549) | 완료 | 2019/09/18
 6603 | 로또 | DFS, 순열 | [BOJ Link](https://www.acmicpc.net/problem/6603) | 완료 | 2019/09/04
-7453 | 합이 0인 네 정수 | 두 포인터 | [BOJ Link](https://www.acmicpc.net/problem/7453) | 완료 | 2019/10/02
 7785 | 회사에 있는 사람 | Set | [BOJ Link](https://www.acmicpc.net/problem/7785) | 완료 | 2019/09/19
 9095 | 1,2,3 더하기 | Brute Force(순열) | [BOJ Link](https://www.acmicpc.net/problem/9095) | 완료 | 2019/09/04
 9663 | N-QUEEN | 백트래킹 | [BOJ Link](https://www.acmicpc.net/problem/9663) | 완료 | 2019/09/10
@@ -77,8 +69,6 @@
 11723 | 집합 | _ | [BOJ Link](https://www.acmicpc.net/problem/11723) | 완료 | 2019/09/01
 11729 | 하노이 탑 이동순서 | D & C | [BOJ Link](https://www.acmicpc.net/problem/11729) | 완료 | 2018/08/27
 11399 | ATM | Greedy | [BOJ Link](https://www.acmicpc.net/problem/11399) | 완료 | 2019/08/26
-11437 | LCA | LCA | [BOJ Link](https://www.acmicpc.net/problem/11437) | 완료 | 2019/10/10
-11657 | 타임머신 | 벨만포드 | [BOJ Link](https://www.acmicpc.net/problem/11657) | 완료 | 2019/10/10
 12757 | 전설의 JBNU | 구현 | [BOJ Link](https://www.acmicpc.net/problem/12757) | 완료 | 2019/10/01
 12767 | Celiling Function | BST, Set | [BOJ Link](https://www.acmicpc.net/problem/12767) | 완료 | 2019/09/19
 14963 | COCI 2017~2018 Contest #1 - Cezar |  | [BOJ Link](https://www.acmicpc.net/problem/14963) | 완료
@@ -96,7 +86,6 @@
 17252 | 삼삼한 수 | DP | [BOJ Link](https://www.acmicpc.net/problem/17252) | 완료 | 2019/09/30
 17253 | 삼삼한 수 | DP | [BOJ Link](https://www.acmicpc.net/problem/17253) | 완료 | 2019/09/30
 17406 | 배열 돌리기 4 | 시뮬레이션 | [BOJ Link](https://www.acmicpc.net/problem/17406) | 완료 | 2019/09/27
-17471 | 게리멘더링 | 완전 탐색, BFS | [BOJ Link](https://www.acmicpc.net/problem/17471) | 완료 | 2019/10/09
 
 ## Programmers 문제목록
 ###
