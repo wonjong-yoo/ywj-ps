@@ -7,7 +7,7 @@ greenlet==1.0.0
 importlib-metadata==3.10.0
 itsdangerous==1.1.0
 Jinja2==2.11.3
-Mako==1.1.4
+Mako==1.2.2
 MarkupSafe==1.1.1
 psycopg2-binary==2.8.6
 python-dateutil==2.8.1
