@@ -1,6 +1,6 @@
 alembic==1.5.8
 click==7.1.2
-Flask==1.1.2
+Flask==2.3.2
 Flask-Migrate==2.7.0
 Flask-SQLAlchemy==2.5.1
 greenlet==1.0.0
